@@ -16,7 +16,7 @@ I reviewed the lectures, had a tutoring session, utilized the Xpert Learning Ass
 
 Submission Includes:
 
-- Screenshots of Q1 and Q4 results
+- Screenshots of Q1 through Q4 results
 - VBA script files generated using Sublime Text Editor
 - ReadMe file
 - Module 2.xlsx project
